@@ -27,38 +27,8 @@ This repository contains a comprehensive analysis of Beijing's housing market da
 - **Time Series Analysis**: Tracking housing price trends over time.
 - **District-Level Insights**: Aggregated statistics and trends by district.
 
-## Dependencies
-
-The project is built using Python and the following libraries:
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- datetime
-
-To install the required packages, use:
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
-
-1. **Data Cleaning and Preprocessing**: Start with `data_cleaning_preprocessing.py` to clean the raw data.
-2. **Categorical Transformation and Outlier Removal**: Run `categorical_transformation_outlier_removal.py` to transform categorical variables and remove outliers.
-3. **Feature Engineering**: Use `feature_engineering_visualization.py` to generate new features and initial visualizations.
-4. **Advanced Visualization**: Dive deeper with `advanced_visualization.py` to create detailed plots and maps.
-5. **District Analysis and Time Series**: Explore trends at the district level using `district_analysis_time_series.py`.
-
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or additions.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-## Contact
-
-For any questions or issues, please feel free to open an issue on this repository or contact the maintainer.
 
 ---
